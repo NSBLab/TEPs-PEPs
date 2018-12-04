@@ -6,7 +6,7 @@ Dependencies
  [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php), [TESA](https://nigelrogasch.github.io/TESA/), and [FieldTrip](http://www.fieldtriptoolbox.org/) toolboxes.
  
 ### Data files
-Please create two directories called Inputs and Outputs in the root directory of this repository.
+Please create two directories called **Inputs** and **Outputs** in the root directory of this repository.
 
 In order to reproduce data used in this project please download the data from [this figshare repository](https://doi.org/10.26180/5c05f9a2e6c32) to **Inputs** directory. The data provided here are the results of pre-processing pipeline (at both source and sensor levels). If you require the raw data please contact [Mana Biabani](mailto:mana.biabanimoghadam@monash.edu) or [Nigel Rogasch](mailto:nigel.rogasch.monash.edu).
 
