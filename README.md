@@ -12,7 +12,7 @@ Dependencies
 ### Data files
 Please create two directories called **Inputs** and **Outputs** in the root directory of this repository.
 
-In order to reproduce data used in this project please download the data from [this figshare repository](https://doi.org/10.26180/5c05f9a2e6c32) to **Inputs** directory. The data provided here are the results of pre-processing pipeline (at both source and sensor levels). If you require the raw data please contact [Mana Biabani](mailto:mana.biabanimoghadam@monash.edu) or [Nigel Rogasch](mailto:nigel.rogasch.monash.edu).
+In order to reproduce data used in this project please download the data from [this figshare repository](https://figshare.com/s/d19e40ed1f02b8ada178) to **Inputs** directory. The data provided here are the results of pre-processing pipeline (at both source and sensor levels). If you require the raw data please contact [Mana Biabani](mailto:mana.biabanimoghadam@monash.edu) or [Nigel Rogasch](mailto:nigel.rogasch.monash.edu).
 
 ### Data processing
 After retrieving data, all of the processing analyses done for this project can be carried out by running processingPipeline.m. This script is located in Code > processing folder. It takes the clean data from Inputs folder, runs each analysis step and saves the outputs of each step to Outputs folder.
