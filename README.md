@@ -3,7 +3,7 @@
 
 Please read our paper, and if you use this code, please cite our paper:
 
-M.Biabani, A.Fornito, T.Mutanen, J.Morrow, N.Rogasch. [Characterizing and minimizing the contribution of sensory inputs to TMS-evoked potentials].
+M.Biabani, A.Fornito, T.Mutanen, J.Morrow, N.Rogasch. [Characterizing and minimizing the contribution of sensory inputs to TMS-evoked potentials](https://www.biorxiv.org/content/early/2018/12/09/489864).
 
 This repository provides the code for reproducing a range of analyses on EEG signals recorded in responses to transcranial magnetic stimulation (TMS). The code is divided into two categories:  pre-processing (cleaning) and processing pipelines. The processing pipeline runs a range of analyses to probe the similarities and differences between TMS-evoked potentials (TEPs) and TMS-evoked sensory potentials (SEPs), at both source and sensor levels. 
 Dependencies
