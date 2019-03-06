@@ -1,4 +1,4 @@
-# TEPs-SEPs
+# TEPs-PEPs
 # Characterizing and minimizing the contribution of sensory inputs to TMS-evoked potentials
 
 Please read our paper, and if you use this code, please cite our paper:
